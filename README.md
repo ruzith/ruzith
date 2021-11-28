@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <b>Rusith</b> 
+- <h1> 👋 Hi, I’m <b>Rusith Ruhunage</h1> </b> 
 - 🎓 I'm Currently an Undergraduate of <b>NSBM Green University</b>
 - 🌱 I’m currently learning <b>Mobile Application Development and Desktop Application Development</b>.
 - 👉 www.linkedin.com/in/rusith-ruhunage-1ba2a621a
